@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(253, 240, 216); 
+}
+
+.App {
+  text-align: center;
+}
+
+a:visited {
+  color:rgb(88, 88, 88);
+}
+
+.active {
+  font-weight: bold;
+  color: red !important; 
+}
+
+ul {  
+  list-style-type: none;
+  padding: 0;
+}
